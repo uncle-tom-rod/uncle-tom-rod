@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tom.
+- 👀 I’m a software devleoper and a big dog lover.
+- 🌱 I’m currently working in a tech startup.
+- 💞️ I’m looking to collaborate on open source video chat solutions.
